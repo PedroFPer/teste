@@ -27,7 +27,7 @@ else:
     print(f"Pasta '{nome_pasta_destino}' já existe. As cópias serão salvas nela.")
 
 # Número de cópias que você quer criar
-numero_de_copias = 1000
+numero_de_copias = 2000
 
 # Loop para copiar a imagem mil vezes
 for i in range(numero_de_copias):
